@@ -21,6 +21,6 @@ A custom, code-based digital home. No website builders, no templates—just a cl
 
 ## 🚦 Quick Start
 ```bash
-git clone [https://github.com/yourusername/portfolio.git](https://github.com/yourusername/portfolio.git)
+git clone 
 npm install
 npm run dev
