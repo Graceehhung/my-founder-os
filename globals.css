@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #fafafa;
+  --foreground: #111111;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-feature-settings: "ss01", "ss02", "cv01", "cv02";
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Smooth transitions for the Bento hover effects */
+.transition-all {
+  transition-duration: 300ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
