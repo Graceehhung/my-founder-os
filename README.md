@@ -1,4 +1,4 @@
-# [Grace Hung] // Personal Portfolio
+# Grace Hung / Personal Portfolio template
 
 A custom, code-based digital home. No website builders, no templates—just a clean, performant build featuring a **Landing Page**, **Project Showcase**, and **Technical Blog**.
 
